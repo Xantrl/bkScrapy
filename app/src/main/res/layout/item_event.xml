@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="124dp"
+    android:background="?selectableItemBackground"
+    android:orientation="horizontal">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="vertical"
+        android:elevation="10dp"
+        >
+
+        <TextView
+            android:id="@+id/item_title"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:lineHeight="24dp"
+            android:maxLines="2"
+            android:textColor="?android:textColorPrimary"
+            android:textStyle="bold"
+            tools:text="title" />
+        <TextView
+            android:id="@+id/item_course"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:lineHeight="24dp"
+            android:maxLines="2"
+            android:textColor="?android:textColorPrimary"
+            android:textStyle="bold"
+            tools:text="Course" />
+
+        <TextView
+            android:id="@+id/item_description"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:textColor="?android:textColorSecondary"
+            tools:text="desc" />
+
+        <TextView
+            android:id="@+id/item_time"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginTop="4dp"
+            android:textSize="17sp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textStyle="bold"
+            android:textColor="@color/time"
+            tools:text="time" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="?colorOnSecondary"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>
