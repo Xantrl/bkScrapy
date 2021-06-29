@@ -4,11 +4,11 @@ A half-baked attemp of ultilizing web-scraper to fetch events from hcmut's elear
 
 ***Download APK:***
 
-[bkScrapy](https://github.com/Xantrl/bkScrapy/releases/download/v1.6.9/bkScrapy.apk)
+[![bkScrapy](https://github.com/Xantrl/bkScrapy/blob/master/screenshots/apk-file-format.png)](https://github.com/Xantrl/bkScrapy/releases/download/v1.6.9/bkScrapy.apk)
 
 | Splash screen  |Create Notes | Note-geofence reminder | Posts | Comments|
 | ------------- |--------------| ------------- |------------- |------------- |
-| ![Application Editor](https://github.com/AbduallahAtta/Social-Note/blob/master/screenshots/edit_note_one.png)| ![Create Notes](https://github.com/AbduallahAtta/Social-Note/blob/master/screenshots/edit_note.png)| ![Note-geofence reminder](https://github.com/AbduallahAtta/Social-Note/blob/master/screenshots/geofence.png) |  ![Posts](https://github.com/AbduallahAtta/Social-Note/blob/master/screenshots/posts_screen.png)|![Comments](https://github.com/AbduallahAtta/Social-Note/blob/master/screenshots/comments_screen.png) 
+| ![Splash screen](https://github.com/Xantrl/bkScrapy/blob/master/screenshots/Screenshot_20210629-191259.png)| ![Create Notes](https://github.com/AbduallahAtta/Social-Note/blob/master/screenshots/edit_note.png)| ![Note-geofence reminder](https://github.com/AbduallahAtta/Social-Note/blob/master/screenshots/geofence.png) |  ![Posts](https://github.com/AbduallahAtta/Social-Note/blob/master/screenshots/posts_screen.png)|![Comments](https://github.com/AbduallahAtta/Social-Note/blob/master/screenshots/comments_screen.png) 
 
 ## Built with:
 
