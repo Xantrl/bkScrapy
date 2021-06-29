@@ -6,10 +6,9 @@ A half-baked attemp of ultilizing web-scraper to fetch events from hcmut's elear
 
 [![bkScrapy](https://github.com/Xantrl/bkScrapy/blob/master/screenshots/apk-file-format.png)](https://github.com/Xantrl/bkScrapy/releases/download/v1.6.9/bkScrapy.apk)
 
-| Splash screen  |Create Notes | Note-geofence reminder | Posts | Comments|
-| ------------- |--------------| ------------- |------------- |------------- |
-| ![Splash screen](https://github.com/Xantrl/bkScrapy/blob/master/screenshots/Screenshot_20210629-191259.png)| ![Create Notes](https://github.com/AbduallahAtta/Social-Note/blob/master/screenshots/edit_note.png)| ![Note-geofence reminder](https://github.com/AbduallahAtta/Social-Note/blob/master/screenshots/geofence.png) |  ![Posts](https://github.com/AbduallahAtta/Social-Note/blob/master/screenshots/posts_screen.png)|![Comments](https://github.com/AbduallahAtta/Social-Note/blob/master/screenshots/comments_screen.png) 
-
+| Splash screen  | Login | Light mode | Dark mode | 
+| ------------- |--------------| ------------- |------------- |
+| ![Splash screen](https://github.com/Xantrl/bkScrapy/blob/master/screenshots/Screenshot_20210629-191259.png)| ![Login](https://github.com/Xantrl/bkScrapy/blob/master/screenshots/Screenshot_20210629-191513.png)| ![Light mode](https://github.com/Xantrl/bkScrapy/blob/master/screenshots/Screenshot_20210629-191502.png) |  ![Dark mode](https://github.com/Xantrl/bkScrapy/blob/master/screenshots/Screenshot_20210629-191447.png)
 ## Built with:
 
 - [Kotlin](https://kotlinlang.org/).
