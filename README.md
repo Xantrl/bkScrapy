@@ -1,3 +1,5 @@
+# No longer usable as is due to changes in the site.
+
 # bkScrapy
 A half-baked attemp of ultilizing web-scraper to fetch events from hcmut's elearning website.
 
